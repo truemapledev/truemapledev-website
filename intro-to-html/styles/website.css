@@ -1,0 +1,24 @@
+p {
+  font-family: Monstserrat;
+}
+
+.hello-button {
+  background-color: rgb(2, 158, 255);
+  border-color: rgb(83, 104, 198);
+  border-style: solid;
+  border-width: 1px;
+  border: none;
+  color: white;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 8px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  transition: box-shadow 0.15s;
+  vertical-align: top;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
